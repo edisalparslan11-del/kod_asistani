@@ -1,0 +1,65 @@
+<mxfile host="Electron">
+  <diagram name="Sayfa-1" id="iQiQa8-bOoqb6EaBbRuo">
+    <mxGraphModel dx="1414" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UnTomDc3MAUCERYqeEqr-2" edge="1" parent="1" source="UnTomDc3MAUCERYqeEqr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="BAŞLA&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="94" x="380" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-5" edge="1" parent="1" source="UnTomDc3MAUCERYqeEqr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="sayici=1" vertex="1">
+          <mxGeometry height="40" width="120" x="367" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-7" edge="1" parent="1" source="UnTomDc3MAUCERYqeEqr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-14" edge="1" parent="1" source="UnTomDc3MAUCERYqeEqr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="sayici&amp;lt;=3" vertex="1">
+          <mxGeometry height="100" width="100" x="377" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HAYIR" vertex="1">
+          <mxGeometry height="30" width="60" x="307" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-10" edge="1" parent="1" source="UnTomDc3MAUCERYqeEqr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="203.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Ekrana&#39;Merhaba Geliştirici&#39;yaz." vertex="1">
+          <mxGeometry height="60" width="207" x="100" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="sayici = sayici+1" vertex="1">
+          <mxGeometry height="40" width="144" x="120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-13" edge="1" parent="1" source="UnTomDc3MAUCERYqeEqr-11" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="UnTomDc3MAUCERYqeEqr-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="390" as="sourcePoint" />
+            <mxPoint x="340" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EVET" vertex="1">
+          <mxGeometry height="30" width="60" x="427" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UnTomDc3MAUCERYqeEqr-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="DUR." vertex="1">
+          <mxGeometry height="50" width="87" x="383.5" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
